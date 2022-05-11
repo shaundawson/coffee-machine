@@ -1,5 +1,4 @@
-# coffee machine
- Day 15: #Python100DaysofCode Local development enviornment & coffee machine project
+Virtual Coffee Machine
+A virtual coffee machine written in Python3 that serves beverages if the ingredients are available.
+https://replit.com/@ShaunDawson/day15-coffee-machine#main.py
 
- See my code here: 
- https://replit.com/@ShaunDawson/day15-coffee-machine#main.py
